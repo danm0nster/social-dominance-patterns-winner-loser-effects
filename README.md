@@ -1,5 +1,7 @@
 # Simulation data for _Aggression heuristics underlie animal dominance hierarchies and provide evidence of group-level social information_
 
+**Authors**: Dan Mønster, Elizabeth Hobson, Simon DeDeo.
+
 Data for three different models of randomly directed aggression with varying
 types of winner and loser effects are supplied here. The data are reported on in
 detail in the Supplementary Information for the paper _Aggression heuristics
