@@ -1,0 +1,2 @@
+self.loss_factor = 0.05
+self.win_factor = 2.7 
